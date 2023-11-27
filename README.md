@@ -37,4 +37,4 @@ Step-by-step guide to utilize your project, use blocks of codes(if necessary)
 3. ...
 
 ---
-Developed by João Marcos Peixoto Cavalcante
+Developed by João Marcos P Cavalcante
